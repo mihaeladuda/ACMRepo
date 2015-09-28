@@ -45,6 +45,7 @@ public class MainFrame extends JFrame {
 		btnWowo.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				System.out.println("Friday");
+				System.out.println("Monday");
 				
 			}
 		});
